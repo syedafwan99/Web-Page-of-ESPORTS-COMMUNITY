@@ -1,2 +1,2 @@
 # Web-Page-of-ESPORTS-COMMUNITY
-Esports Community Web-Page
+Esports Community Home Page, About section and contact section.
