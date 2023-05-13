@@ -1,5 +1,6 @@
 # Web-Page-of-ESPORTS-COMMUNITY
 Esports Community Home Page, About section and contact section.
+This is a Simple Website. On this website, you will find Gamingblogs and Gamingnews. (I will Update More Content Soon on this website).
 
 Other websites -
 
